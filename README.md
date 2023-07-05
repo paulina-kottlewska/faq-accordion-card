@@ -7,6 +7,7 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+  - [Link](#link)
 - [My process](#my-process)
   - [Design](#design)
   - [Development](#development)
@@ -30,6 +31,10 @@ Users should be able to:
 ![](./images/faq-accordion-card-mobile.JPG)
 ![](./images/faq-accordion-card-active-state.JPG)
 ![](./images/faq-accordion-card-desktop.JPG)
+
+### Link
+
+- Live Site URL: (https://incomparable-genie-9b38db.netlify.app/)
 
 ## My process
 

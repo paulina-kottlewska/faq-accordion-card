@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Link
 
-- Live Site URL: (https://incomparable-genie-9b38db.netlify.app/)
+- Live Site URL: (https://faq-accordion-card-pk.netlify.app)
 
 ## My process
 
